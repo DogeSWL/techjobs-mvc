@@ -1,0 +1,19 @@
+.tableExtra {
+    border: solid 1px gainsboro;
+    margin: 0 auto 30px auto;
+}
+
+.tdExtra {
+    font-weight: 600;
+    width: 200px;
+}
+
+.tdExtraLong {
+    width:700px;
+}
+
+.resultExtra {
+    font-size: 180%;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
